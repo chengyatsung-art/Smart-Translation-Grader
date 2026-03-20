@@ -1,0 +1,7 @@
+{
+  "name": "Smart Translation Grader",
+  "description": "An AI-powered assistant for teachers to grade handwritten translation exams. Setup questions, upload student photos, and get instant OCR transcription, scoring, and feedback.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
